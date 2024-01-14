@@ -1,6 +1,11 @@
 [![An image of @esjliew's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/esjliew)](https://holopin.io/@esjliew)
 
-### Hi there 👋
+<h2> About </h2>
+
+<p>An Android developer experienced in mobile application development for IoT devices compliance 
+with Bluetooth Low Energy (BLE) standard. 
+Mainly develops native application using Android Studio and Kotlin. Passionate in exploring and learning the latest tech stacks in the Android development scene.</p>
+
 <!--
 **es-jliew/es-jliew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👋
 -->
