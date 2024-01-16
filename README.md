@@ -33,6 +33,7 @@ with Bluetooth Low Energy (BLE) standard.
 <p>
 &nbsp;
 ![Ktor Logo](./assets/icons/ktor_logo.svg)
+![Ktor Logo](./assets/icons/coil_logo.svg)
 </p>
 
 <h2> Remarks </h2>
