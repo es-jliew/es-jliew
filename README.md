@@ -38,11 +38,16 @@ with Bluetooth Low Energy (BLE) standard.
 
 <h2> Projects </h2>
 
-[![Carpooling](https://github-readme-stats.vercel.app/api/pin/?username=es-jliew&repo=carpooling-model-netlogo&show_owner=true)](https://github.com/es-jliew/carpooling-model-netlogo)
+[![Carpooling](https://github-readme-stats.vercel.app/api/pin/?username=es-jliew&repo=carpooling-model-netlogo&show_owner=true&theme=react)](https://github.com/es-jliew/carpooling-model-netlogo)
 
 
 
-<h2> Remarks </h2>
+<h2> Resources </h2>
+
+- Icons
+
+&nbsp;
+[<img src="./assets/icons/icons8_logo.png" alt="Koin Logo" height="48" width="48">](https://icons8.com/)
 
 <!--
 **es-jliew/es-jliew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
