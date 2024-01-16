@@ -2,9 +2,40 @@
 
 <h2> About </h2>
 
-<p>An Android developer experienced in mobile application development for IoT devices compliance 
+- Experienced in mobile application development for IoT devices compliance 
 with Bluetooth Low Energy (BLE) standard. 
-Mainly develops native application using Android Studio and Kotlin. Passionate in exploring and learning the latest tech stacks in the Android development scene.</p>
+- Mainly develops native application using Android Studio and Kotlin. 
+- Passionate in exploring the latest tech stacks in the Android development scene.
+
+<h2> Languages and Tools </h2>
+
+- Languages
+
+<p>
+&nbsp;
+<img src="https://img.icons8.com/color/48/4a90e2/kotlin" alt="Kotlin Logo"/>
+<img src="https://img.icons8.com/color/48/4a90e2/javascript" alt="JavaScript Logo"/>
+<img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png" alt="Java Logo"/>
+</p>
+
+- IDEs / Platforms
+
+<p>
+&nbsp;
+<img src="https://img.icons8.com/color/48/4a90e2/android-studio" alt="Android Studio Logo"/>
+<img src="https://img.icons8.com/color/48/4a90e2/intellij-idea" alt="Intellij Idea Logo"/>
+<img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png" alt="Visual Studio Code Logo"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/google-firebase-console.png" alt="google-firebase-console"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/cloud-function.png" alt="cloud-function"/>
+</p>
+
+- Libraries
+<p>
+&nbsp;
+![Ktor Logo](./assets/icons/ktor_logo.svg)
+</p>
+
+<h2> Remarks </h2>
 
 <!--
 **es-jliew/es-jliew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
