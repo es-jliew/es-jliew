@@ -29,11 +29,11 @@ with Bluetooth Low Energy (BLE) standard.
 <img width="48" height="48" src="https://img.icons8.com/color/48/cloud-function.png" alt="cloud-function"/>
 </p>
 
-- Libraries
+- Libraries / Tools
+
 <p>
 &nbsp;
-![Ktor Logo](./assets/icons/ktor_logo.svg)
-![Ktor Logo](./assets/icons/coil_logo.svg)
+<img src="./assets/icons/koin_logo.png" alt="Koin Logo" height="48">
 </p>
 
 <h2> Remarks </h2>
