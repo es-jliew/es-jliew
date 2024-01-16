@@ -32,8 +32,10 @@ with Bluetooth Low Energy (BLE) standard.
 - Libraries / Tools
 
 <p>
-&nbsp;
-<img src="./assets/icons/koin_logo.png" alt="Koin Logo" height="48">
+
+[<img src="./assets/icons/koin_logo.png" alt="Koin Logo" height="48">](https://insert-koin.io/)
+
+[//]: # (<img src="./assets/icons/koin_logo.png" alt="Koin Logo" height="48">)
 </p>
 
 <h2> Remarks </h2>
