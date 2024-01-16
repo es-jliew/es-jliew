@@ -58,7 +58,9 @@ with Bluetooth Low Energy (BLE) standard.
 
 [![Carpooling](https://github-readme-stats.vercel.app/api/pin/?username=es-jliew&repo=carpooling-model-netlogo&show_owner=true&theme=react)](https://github.com/es-jliew/carpooling-model-netlogo)
 
+<h2> GitHub Stats </h2>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=es-jliew&layout=compact&theme=react" alt=""/>
 
 <h2> Resources </h2>
 
