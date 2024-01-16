@@ -36,6 +36,12 @@ with Bluetooth Low Energy (BLE) standard.
 [<img src="./assets/icons/source_tree_logo.png" alt="SourceTree Logo" height="48" width="48">](https://www.sourcetreeapp.com/)
 [<img src="./assets/icons/proxyman_logo.png" alt="Proxyman Logo" height="48" width="48">](https://proxyman.io/)
 
+<h2> Projects </h2>
+
+[![Carpooling](https://github-readme-stats.vercel.app/api/pin/?username=es-jliew&repo=carpooling-model-netlogo&show_owner=true)](https://github.com/es-jliew/carpooling-model-netlogo)
+
+
+
 <h2> Remarks </h2>
 
 <!--
