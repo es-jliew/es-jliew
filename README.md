@@ -9,9 +9,10 @@ with Bluetooth Low Energy (BLE) standard.
 
 <h2> Languages and Tools </h2>
 
-| Languages                      | IDEs / Platforms                                   | Libraries / Tools                            |
-|--------------------------------|----------------------------------------------------|----------------------------------------------|
-| ![icon][1]![icon][2]![icon][3] | ![icon][4]![icon][5]![icon][6]![icon][7]![icon][8] | <img src="[9]" alt="alt text" height="100"/> |
+<!--
+| Languages                      | IDEs / Platforms                                   | Libraries / Tools                                            |
+|--------------------------------|----------------------------------------------------|--------------------------------------------------------------|
+| ![icon][1]![icon][2]![icon][3] | ![icon][4]![icon][5]![icon][6]![icon][7]![icon][8] | <img height="48" src="./assets/icons/source_tree_logo.png"/> |
 
 [1]: https://img.icons8.com/color/48/4a90e2/kotlin
 [2]: https://img.icons8.com/color/48/4a90e2/javascript
@@ -24,6 +25,7 @@ with Bluetooth Low Energy (BLE) standard.
 [8]: https://img.icons8.com/color/48/cloud-function.png
 
 [9]: ./assets/icons/proxyman_logo.png
+-->
 
 - Languages
 
