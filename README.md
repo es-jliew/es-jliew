@@ -33,6 +33,8 @@ with Bluetooth Low Energy (BLE) standard.
 
 &nbsp;
 [<img src="./assets/icons/koin_logo.png" alt="Koin Logo" height="48" width="48">](https://insert-koin.io/)
+[<img src="./assets/icons/source_tree_logo.png" alt="SourceTree Logo" height="48" width="48">](https://www.sourcetreeapp.com/)
+[<img src="./assets/icons/proxyman_logo.png" alt="Proxyman Logo" height="48" width="48">](https://proxyman.io/)
 
 <h2> Remarks </h2>
 
