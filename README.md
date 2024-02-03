@@ -9,10 +9,10 @@ with Bluetooth Low Energy (BLE) standard.
 
 <h2> Languages and Tools </h2>
 
-<!--
-| Languages                      | IDEs / Platforms                                   | Libraries / Tools                                            |
-|--------------------------------|----------------------------------------------------|--------------------------------------------------------------|
-| ![icon][1]![icon][2]![icon][3] | ![icon][4]![icon][5]![icon][6]![icon][7]![icon][8] | <img height="48" src="./assets/icons/source_tree_logo.png"/> |
+
+| Languages                      | IDEs / Platforms                                   | Libraries / Tools                                                                                                                        |
+|--------------------------------|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| ![icon][1]![icon][2]![icon][3] | ![icon][4]![icon][5]![icon][6]![icon][7]![icon][8] | <img src="./assets/icons/koin_logo.png"/> <img src="./assets/icons/source_tree_logo.png"/> <img src="./assets/icons/proxyman_logo.png"/> |
 
 [1]: https://img.icons8.com/color/48/4a90e2/kotlin
 [2]: https://img.icons8.com/color/48/4a90e2/javascript
@@ -25,8 +25,10 @@ with Bluetooth Low Energy (BLE) standard.
 [8]: https://img.icons8.com/color/48/cloud-function.png
 
 [9]: ./assets/icons/proxyman_logo.png
--->
+[10]: ./assets/icons/koin_logo.png
+[11]: ./assets/icons/source_tree_logo.png
 
+<!--
 - Languages
 
 <p>
@@ -53,6 +55,7 @@ with Bluetooth Low Energy (BLE) standard.
 [<img src="./assets/icons/koin_logo.png" alt="Koin Logo" height="48" width="48">](https://insert-koin.io/)
 [<img src="./assets/icons/source_tree_logo.png" alt="SourceTree Logo" height="48" width="48">](https://www.sourcetreeapp.com/)
 [<img src="./assets/icons/proxyman_logo.png" alt="Proxyman Logo" height="48" width="48">](https://proxyman.io/)
+-->
 
 <h2> Projects </h2>
 
