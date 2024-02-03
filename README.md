@@ -24,10 +24,6 @@ with Bluetooth Low Energy (BLE) standard.
 [7]: https://img.icons8.com/color/48/google-firebase-console.png
 [8]: https://img.icons8.com/color/48/cloud-function.png
 
-[9]: ./assets/icons/proxyman_logo.png
-[10]: ./assets/icons/koin_logo.png
-[11]: ./assets/icons/source_tree_logo.png
-
 <!--
 - Languages
 
