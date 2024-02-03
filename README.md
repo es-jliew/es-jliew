@@ -10,9 +10,9 @@ with Bluetooth Low Energy (BLE) standard.
 <h2> Languages and Tools </h2>
 
 
-| Languages                      | IDEs / Platforms                                                     | Libraries / Tools                                                                                                                                  |
-|--------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![icon][1]![icon][2]![icon][3] | ![icon][4]&nbsp;![icon][5]&nbsp;![icon][6]&nbsp;![icon][7]![icon][8] | <img src="./assets/icons/koin_logo.png"/>&nbsp;<img src="./assets/icons/source_tree_logo.png"/>&nbsp;<img src="./assets/icons/proxyman_logo.png"/> |
+| Languages                      | IDEs / Platforms                                                     | Libraries / Tools                                                                                                                                        |
+|--------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![icon][1]![icon][2]![icon][3] | ![icon][4]&nbsp;![icon][5]&nbsp;![icon][6]&nbsp;![icon][7]![icon][8] | <img src="./assets/icons/koin_logo.png"/>&nbsp;&nbsp;<img src="./assets/icons/source_tree_logo.png"/>&nbsp;<img src="./assets/icons/proxyman_logo.png"/> |
 
 [1]: https://img.icons8.com/color/48/4a90e2/kotlin
 [2]: https://img.icons8.com/color/48/4a90e2/javascript
