@@ -5,7 +5,7 @@
 - Experienced in mobile application development for IoT devices compliance 
 with Bluetooth Low Energy (BLE) standard. 
 - Mainly develops native application using Android Studio and Kotlin. 
-- Passionate in exploring the latest tech stacks in the Android development scene.
+- Passionate in learning the latest tools for native Android app development.
 
 <h2> Languages and Tools </h2>
 
@@ -60,6 +60,8 @@ with Bluetooth Low Energy (BLE) standard.
 [![Carpooling](https://github-readme-stats.vercel.app/api/pin/?username=es-jliew&repo=carpooling-model-netlogo&show_owner=true&theme=react)](https://github.com/es-jliew/carpooling-model-netlogo)
 &nbsp; &nbsp;
 [![Random Picker](https://github-readme-stats.vercel.app/api/pin/?username=es-jliew&repo=random-picker-mvvm-compose&show_owner=true&theme=react)](https://github.com/es-jliew/random-picker-mvvm-compose)
+&nbsp; &nbsp;
+[![Random Picker](https://github-readme-stats.vercel.app/api/pin/?username=es-jliew&repo=recipe-maker&show_owner=true&theme=react)](https://github.com/es-jliew/recipe-maker)
 
 </p>
 
