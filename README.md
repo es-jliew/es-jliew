@@ -57,11 +57,9 @@ with Bluetooth Low Energy (BLE) standard.
 
 <p>
 
-[![Carpooling](https://github-readme-stats.vercel.app/api/pin/?username=es-jliew&repo=carpooling-model-netlogo&show_owner=true&theme=react)](https://github.com/es-jliew/carpooling-model-netlogo)
-&nbsp; &nbsp;
+[![Recipe Maker](https://github-readme-stats.vercel.app/api/pin/?username=es-jliew&repo=recipe-maker&show_owner=true&theme=react)](https://github.com/es-jliew/recipe-maker)
 [![Random Picker](https://github-readme-stats.vercel.app/api/pin/?username=es-jliew&repo=random-picker-mvvm-compose&show_owner=true&theme=react)](https://github.com/es-jliew/random-picker-mvvm-compose)
-&nbsp; &nbsp;
-[![Random Picker](https://github-readme-stats.vercel.app/api/pin/?username=es-jliew&repo=recipe-maker&show_owner=true&theme=react)](https://github.com/es-jliew/recipe-maker)
+[![Carpooling](https://github-readme-stats.vercel.app/api/pin/?username=es-jliew&repo=carpooling-model-netlogo&show_owner=true&theme=react)](https://github.com/es-jliew/carpooling-model-netlogo)
 
 </p>
 
