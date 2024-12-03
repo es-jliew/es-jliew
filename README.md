@@ -53,6 +53,7 @@ with Bluetooth Low Energy (BLE) standard.
 [<img src="./assets/icons/proxyman_logo.png" alt="Proxyman Logo" height="48" width="48">](https://proxyman.io/)
 -->
 
+<!--
 <h2> Projects </h2>
 
 <p>
@@ -62,17 +63,20 @@ with Bluetooth Low Energy (BLE) standard.
 [![Carpooling](https://github-readme-stats.vercel.app/api/pin/?username=es-jliew&repo=carpooling-model-netlogo&show_owner=true&theme=react)](https://github.com/es-jliew/carpooling-model-netlogo)
 
 </p>
+-->
 
 <h2> GitHub Stats </h2>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=es-jliew&layout=compact&theme=react" alt=""/>
 
+<!--
 <h2> Resources </h2>
 
 - Icons
 
 &nbsp;
 [<img src="./assets/icons/icons8_logo.png" alt="Koin Logo" height="48" width="48">](https://icons8.com/)
+-->
 
 <!--
 **es-jliew/es-jliew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
