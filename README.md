@@ -1,5 +1,15 @@
 [![An image of @esjliew's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/esjliew)](https://holopin.io/@esjliew)
 
+<h2> Projects </h2>
+
+<p>
+
+[![Recipe Maker](https://github-readme-stats.vercel.app/api/pin/?username=es-jliew&repo=recipe-maker&show_owner=true&theme=react)](https://github.com/es-jliew/recipe-maker)
+[![Random Picker](https://github-readme-stats.vercel.app/api/pin/?username=es-jliew&repo=random-picker-mvvm-compose&show_owner=true&theme=react)](https://github.com/es-jliew/random-picker-mvvm-compose)
+[![Carpooling](https://github-readme-stats.vercel.app/api/pin/?username=es-jliew&repo=carpooling-model-netlogo&show_owner=true&theme=react)](https://github.com/es-jliew/carpooling-model-netlogo)
+
+</p>
+
 <h2> About </h2>
 
 - Experienced in mobile application development for IoT devices compliance 
@@ -51,18 +61,6 @@ with Bluetooth Low Energy (BLE) standard.
 [<img src="./assets/icons/koin_logo.png" alt="Koin Logo" height="48" width="48">](https://insert-koin.io/)
 [<img src="./assets/icons/source_tree_logo.png" alt="SourceTree Logo" height="48" width="48">](https://www.sourcetreeapp.com/)
 [<img src="./assets/icons/proxyman_logo.png" alt="Proxyman Logo" height="48" width="48">](https://proxyman.io/)
--->
-
-<!--
-<h2> Projects </h2>
-
-<p>
-
-[![Recipe Maker](https://github-readme-stats.vercel.app/api/pin/?username=es-jliew&repo=recipe-maker&show_owner=true&theme=react)](https://github.com/es-jliew/recipe-maker)
-[![Random Picker](https://github-readme-stats.vercel.app/api/pin/?username=es-jliew&repo=random-picker-mvvm-compose&show_owner=true&theme=react)](https://github.com/es-jliew/random-picker-mvvm-compose)
-[![Carpooling](https://github-readme-stats.vercel.app/api/pin/?username=es-jliew&repo=carpooling-model-netlogo&show_owner=true&theme=react)](https://github.com/es-jliew/carpooling-model-netlogo)
-
-</p>
 -->
 
 <h2> GitHub Stats </h2>
